@@ -17,7 +17,6 @@ Bài Lab giúp bạn hiểu rõ sự tiến hóa qua 4 cấp độ của hệ th
 * 🧠 **ReAct Agent (Cấp 3)**: Giống như một **trợ lý thực hành** — vừa biết suy nghĩ (**Thought**), vừa biết chủ động dùng công cụ (**Action**) như phần mềm tra cứu/tính toán, và quan sát kết quả (**Observation**) để giải quyết các bài toán thực tế.
 
 ---
-
 ### 📂 2. CẤU TRÚC THƯ MỤC DỰ ÁN
 
 ```text
